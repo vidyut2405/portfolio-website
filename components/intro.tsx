@@ -43,17 +43,17 @@ export default function Intro() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
                 className="mb-4  text-4xl tracking-tight font-extrabold text-white "
-              >Welcome! I'm Vidyut</motion.h1>
+              >Welcome!I am Vidyut</motion.h1>
               <motion.p
                 initial={{ opacity: 0, scale: 0.5 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5 }}
-                className="mb-6 font-light text-gray-300 md:text-lg dark:text-gray-400">I work with Next Js, React and Python.<br></br> Full Stack Developer,I'm learning web3..</motion.p>
+                className="mb-6 font-light text-gray-300 md:text-lg dark:text-gray-400">I work with Next Js, React and Python.<br></br> Full Stack Developer,I am learning web3..</motion.p>
               <motion.a
                 initial={{ opacity: 0, scale: 0.5 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5 }}
-                href="#contact" className="inline-flex focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition-all border-white border-2 hover:border-white hover:border-2 items-center hover:bg-black/10 bg-white  text-black hover:text-white focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900  focus:ring-primary-300">
+                href="#contact" className="inline-flex focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition-all border-black border-2 hover:border-black hover:border-2 items-center hover:bg-white bg-black  text-white hover:text-black focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:focus:ring-primary-900  focus:ring-primary-300">
                 Contact Me
                 <svg className="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
               </motion.a>
@@ -61,7 +61,7 @@ export default function Intro() {
                 initial={{ opacity: 0, scale: 0.5 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5 }}
-                className="inline-flex px-3 bg-white/10 border-white/10 border-2 mx-2 items-center   hover:bg-white/20  text-white rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition  focus:ring-4 focus:ring-primary-300 font-medium text-sm py-3 text-center cursor-pointer  borderBlack   "
+                className="inline-flex px-3 bg-white  border-2 mx-2 items-center   hover:bg-black  text-black rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition  hover:text-white focus:ring-4 focus:ring-primary-300 font-medium text-sm py-3 text-center cursor-pointer  borderBlack   "
                 href="https://www.linkedin.com/in/vidyut-b-93633827a/"
                 target="_blank"
               >
