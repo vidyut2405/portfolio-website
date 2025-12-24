@@ -43,12 +43,12 @@ export default function Intro() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
                 className="mb-4  text-4xl tracking-tight font-extrabold text-white "
-              >Welcome! I am Vidyut</motion.h1>
+              >Welcome! I'm Vidyut</motion.h1>
               <motion.p
                 initial={{ opacity: 0, scale: 0.5 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5 }}
-                className="mb-6 font-light text-gray-300 md:text-lg dark:text-gray-400">I work with Next Js, React and Python.<br></br> Full Stack Developer,I am learning web3..</motion.p>
+                className="mb-6 font-light text-gray-300 md:text-lg dark:text-gray-400">I work with Next Js, React and Python.<br></br> Full Stack Developer,I'm learning web3..</motion.p>
               <motion.a
                 initial={{ opacity: 0, scale: 0.5 }}
                 animate={{ opacity: 1, scale: 1 }}
