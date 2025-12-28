@@ -50,7 +50,7 @@ export default function Intro() {
               initial={{ opacity: 0, scale: 0.5 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5 }}
-              className="mb-6 font-light text-gray-300 md:text-lg dark:text-gray-400">I work with Next Js, React and Python.<br></br> Full Stack Developer,I am learning web3..</motion.p>
+              className="mb-6 font-light text-gray-300 md:text-lg dark:text-gray-400">I work with Next Js, React and Python.<br></br> Full Stack with AI Developer..</motion.p>
             <motion.a
               initial={{ opacity: 0, scale: 0.5 }}
               animate={{ opacity: 1, scale: 1 }}
